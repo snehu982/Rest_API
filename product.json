@@ -1,0 +1,40 @@
+{
+  "name": "Product Name",
+  "description": "Product Description",
+  "price": 10.99,
+  "categories": ["Category1", "Category2"],
+  "attributes": [{"size": "Large"}, {"color": "Red"}],
+  "availability": {"inStock": true, "quantity": 100},
+  "ratings": []
+
+{
+
+  "id": "product_id",
+  "name": "Product Name",
+  "description": "Product Description",
+  "price": 10.99,
+  "categories": ["Category1", "Category2"],
+  "attributes": [{"size": "Large"}, {"color": "Red"}],
+  "availability": {"inStock": true, "quantity": 100},
+  "ratings": []
+  }
+
+
+{
+  "id": "product_id",
+  "name": "Product Name",
+  "description": "Product Description",
+  "price": 10.99,
+  "categories": ["Category1", "Category2"],
+  "attributes": [{"size": "Large"}, {"color": "Red"}],
+  "availability": {"inStock": true, "quantity": 100},
+  "ratings": [{"userId": "user1", "rating": 4, "comment": "Nice product"}]
+  }
+
+
+
+  "userId": "user5",
+  "rating": 5,
+  "comment": "Excellent product"
+}
+
